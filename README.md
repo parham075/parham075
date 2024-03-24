@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parham Membari</h1>
 <h3 align="center">Passionate student of Machine Learning and Data Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/2of.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parham075&label=Profile%20views&color=0e75b6&style=flat" alt="parham075" /> </p>
 
 - 🔭 I’m currently working on [ai-extension](https://github.com/ai-extensions)
