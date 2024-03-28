@@ -39,7 +39,7 @@
 | Project name|
 | --- | 
 |[COVID-19-ETL-Pipeline](https://github.com/parham075/COVID-19-ETL-Pipeline)| 
-|[big-data-computing)](https://github.com/parham075/big-data-computing)|
+|[big-data-computing](https://github.com/parham075/big-data-computing)|
 | [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) |
 
 
