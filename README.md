@@ -25,7 +25,7 @@
 
 ## ML Projects:
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=nlp-spam-classifier)](https://github.com/parham075/nlp-spam-classifier)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=Kidney-Tumor-Classification)](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=Stock-Sentiment-Analysis-NLP)](https://github.com/parham075/Stock-Sentiment-Analysis-NLP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=circuits-component-detection-yolo)](https://github.com/parham075/circuits-component-detection-yolo)
