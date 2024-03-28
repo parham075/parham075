@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning/Data engineering**
 
-- 📫 How to reach me **p.membari96@gmail.com**
+- 📫 How to reach me: **p.membari96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
