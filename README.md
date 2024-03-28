@@ -26,35 +26,35 @@
 ## ML Projects:
 
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=Kidney-Tumor-Classification)](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow)
+- [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=nlp-spam-classifier)](https://github.com/parham075/nlp-spam-classifier)
+- [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=Stock-Sentiment-Analysis-NLP)](https://github.com/parham075/Stock-Sentiment-Analysis-NLP)
+- [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=circuits-component-detection-yolo)](https://github.com/parham075/circuits-component-detection-yolo)
+- [circuits-component-detection-yolo](https://github.com/parham075/circuits-component-detection-yolo)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=NLP-Big-Data-Book-Classification)](https://github.com/parham075/NLP-Big-Data-Book-Classification)
+- [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=ICR-Identifying-Age-Related-Conditions)](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions)
+- [ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=titanic-from-disaster)](https://github.com/parham075/titanic-from-disaster)
+- [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=House-prices-in-Thehran)](https://github.com/parham075/House-prices-in-Thehran)
+- [House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)
 
 
 ## Big Data & Data Engineering:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=COVID-19-ETL-Pipeline)](https://github.com/parham075/COVID-19-ETL-Pipeline)
+- [COVID-19-ETL-Pipeline](https://github.com/parham075/COVID-19-ETL-Pipeline)
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=big-data-computing)](https://github.com/parham075/big-data-computing)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=NLP-Big-Data-Book-Classification)](https://github.com/parham075/NLP-Big-Data-Book-Classification)
+- [big-data-computing)](https://github.com/parham075/big-data-computing)
+- [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification)
 ## CI/CD:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=ML-Training-Jobs-Mlflow-MinIO-Kubernetes)](https://github.com/parham075/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=argocd-app-config)](https://github.com/parham075/argocd-app-config)
+- [ML-Training-Jobs-Mlflow-MinIO-Kubernetes](https://github.com/parham075/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
+- [argocd-app-config)](https://github.com/parham075/argocd-app-config)
 
 ## IOT:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parham075&repo=Plant-Watering)](https://github.com/parham075/Plant-Watering)
+- [Plant-Watering](https://github.com/parham075/Plant-Watering)
 
