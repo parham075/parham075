@@ -25,36 +25,34 @@
 
 ## ML Projects:
 
+| Project name | Project name |
+| --- | ----------- |
+| [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier) |
+| [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP) |[ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions) |
+| [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier) |
+| [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster) | [House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)|
 
-- [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow)
 
-- [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier)
-
-- [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP)
-
-- [circuits-component-detection-yolo](https://github.com/parham075/circuits-component-detection-yolo)
-
-- [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification)
-
-- [ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions)
-
-- [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster)
-
-- [House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)
 
 
 ## Big Data & Data Engineering:
+| Project name|
+| --- | 
+|[COVID-19-ETL-Pipeline](https://github.com/parham075/COVID-19-ETL-Pipeline)| 
+|[big-data-computing)](https://github.com/parham075/big-data-computing)|
+| [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) |
 
-- [COVID-19-ETL-Pipeline](https://github.com/parham075/COVID-19-ETL-Pipeline)
 
-- [big-data-computing)](https://github.com/parham075/big-data-computing)
-- [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification)
 ## CI/CD:
+| Project name|
+| --- | 
+|[ML-Training-Jobs-Mlflow-MinIO-Kubernetes](https://github.com/parham075/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)| 
+|[argocd-app-config](https://github.com/parham075/argocd-app-config)|
 
-- [ML-Training-Jobs-Mlflow-MinIO-Kubernetes](https://github.com/parham075/ML-Training-Jobs-Mlflow-MinIO-Kubernetes)
-- [argocd-app-config)](https://github.com/parham075/argocd-app-config)
 
 ## IOT:
+| Project name|
+| --- | 
+|[Plant-Watering](https://github.com/parham075/Plant-Watering)| 
 
-- [Plant-Watering](https://github.com/parham075/Plant-Watering)
 
