@@ -3,11 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parham075&label=Profile%20views&color=0e75b6&style=flat" alt="parham075" /> </p>
 
-- 🔭 I’m currently working on [NLP course](https://github.com/iacopomasi/NLP)
+- 🔭 I’m currently working on [Earth Observation Application Package](https://github.com/eoap) , and [Medical Open Network for Artificial Intelligence](https://monai.io). 
 
-- 🌱 I’m currently learning **data-engineering-essentials-sql-python-and-spark**
-
-- 👨‍💻 All of my projects are available at [https://github.com/parham075](https://github.com/parham075)
+- 👨‍💻 All of my projects are available at [https://github.com/parham075](https://github.com/parham075), and [https://github.com/parham-membari-terradue](https://github.com/parham-membari-terradue?tab=repositories).
 
 - 💬 Ask me about **Machine Learning/Data engineering**
 
@@ -19,7 +17,7 @@
 | [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow) | [ML-Language-Traslation(NLP)](https://github.com/parham075/ML-Language-Traslation/tree/main) 
 | [NTA-LLM (No Teacher Assistant)](https://github.com/parham075/NTA-LLM)| [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP) |
 [ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions) | [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier) | [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster) | 
-[House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)|
+[House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)| [Teaching Assistant at Sapienza university for NLP Course](https://github.com/iacopomasi/NLP)|
 
 
 
