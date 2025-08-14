@@ -14,10 +14,9 @@
 
 | Project name | Project name |
 | --- | ----------- |
-| [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow) | [ML-Language-Traslation(NLP)](https://github.com/parham075/ML-Language-Traslation/tree/main) 
+| [Teaching Assistant at Sapienza university for NLP Course](https://github.com/iacopomasi/NLP)| [Kidney-Tumor-Classification-with-mlflow](https://github.com/parham075/Kidney-Tumor-Classification-with-mlflow) | [ML-Language-Traslation(NLP)](https://github.com/parham075/ML-Language-Traslation/tree/main) 
 | [NTA-LLM (No Teacher Assistant)](https://github.com/parham075/NTA-LLM)| [Stock-Sentiment-Analysis-NLP](https://github.com/parham075/Stock-Sentiment-Analysis-NLP) |
-[ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions) | [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier) | [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster) | 
-[House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)| [Teaching Assistant at Sapienza university for NLP Course](https://github.com/iacopomasi/NLP)|
+[ICR-Identifying-Age-Related-Conditions](https://github.com/parham075/ICR-Identifying-Age-Related-Conditions) | [NLP-Big-Data-Book-Classification](https://github.com/parham075/NLP-Big-Data-Book-Classification) | [nlp-spam-classifier](https://github.com/parham075/nlp-spam-classifier) | [titanic-from-disaster](https://github.com/parham075/titanic-from-disaster) | [House-prices-in-Thehran](https://github.com/parham075/House-prices-in-Thehran)| 
 
 
 
